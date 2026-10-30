@@ -1,0 +1,14 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+password_manager
+
+# Local data (may contain credentials)
+passwords.txt
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
