@@ -16,9 +16,26 @@ A clean, command-line password manager built in C. This tool allows you to add, 
 ```text
 password-manager/
 ├── main.c              # Application source code
-
+├── password_manager.exe# Compiled executable
+├── passwords.txt       # Local storage for credentials
 └── README.md           # Project documentation
 ```
+
+## Screenshots
+
+Here is what the application looks like in action:
+
+| Screen 1 | Screen 2 |
+| :---: | :---: |
+| ![Screenshot 1](1.png) | ![Screenshot 2](2.png) |
+
+| Screen 3 | Screen 4 |
+| :---: | :---: |
+| ![Screenshot 3](3.png) | ![Screenshot 4](4.png) |
+
+| Screen 5 |
+| :---: |
+| ![Screenshot 5](5.png) |
 
 ## Running the Application
 
